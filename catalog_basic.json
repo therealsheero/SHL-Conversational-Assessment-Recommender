@@ -1,0 +1,2725 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Agency Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "E"
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Dojo (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "C"
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "iOS Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Java Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "B"
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "D"
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "D"
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "D"
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "D"
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Microsoft SQL Server 2014 Programming",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Microsoft Windows Server 2012 Administration",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Mineral Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Mining Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Mobility (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Molecular Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "MongoDB (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "MQ Candidate Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "MQ Employee Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "MQ Motivation Report Pack",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Operations Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Candidate Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Manager Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Premium Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Premium Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Paint Technology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Pediatrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Pega Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Perl (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Production Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Programming Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Project Management (2013)",
+    "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Proofreading v1",
+    "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "R Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "ReactJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Reading Comprehension - English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Reading Comprehension - Spanish v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Reading Comprehension v2",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "C"
+  },
+  {
+    "name": "RemoteWorkQ Manager Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "C"
+  },
+  {
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "C"
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Sales Transformation Report 1.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Sales Transformation Report 2.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Salesforce Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP ABAP (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP ABAP (Intermediate Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP Basis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP Business Objects WebI (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP BW (Business Warehouse) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP HCM (Human Capital Management) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP Hybris (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP Materials Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SAP SD (Sales and Distribution) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "SHL Verify Interactive \u2013 Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Siebel Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Struts (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "SVAR - Spoken English (AUS)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "SVAR - Spoken English (U.K.)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "SVAR - Spoken English (US)  (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "SVAR - Spoken French (Canadian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "SVAR - Spoken French (European) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "SVAR - Spoken Spanish (North American) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "Swing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Tableau (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify - Working with Information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "A"
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "P"
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "S"
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "K"
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": "D"
+  },
+  {
+    "name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "remote_testing": null,
+    "adaptive_irt": null,
+    "test_type": null
+  }
+]

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SHL Assessment Recommender</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace" aria-label="SHL assessment recommender">
+        <header class="topbar">
+          <div>
+            <h1>SHL Assessment Recommender</h1>
+          </div>
+          <a class="docs-link" href="/docs">API Docs</a>
+        </header>
+
+        <div class="content">
+          <section class="chat-panel" aria-label="Conversation">
+            <div id="messages" class="messages" aria-live="polite"></div>
+            <form id="chatForm" class="composer">
+              <textarea
+                id="messageInput"
+                name="message"
+                rows="3"
+                placeholder="Hiring a mid-level Java developer with good communication skills, within 40 minutes"
+                required
+              ></textarea>
+              <button type="submit" aria-label="Send message">
+                <span>Send</span>
+              </button>
+            </form>
+          </section>
+
+          <aside class="results-panel" aria-label="Recommendations">
+            <div class="panel-heading">
+              <h2>Shortlist</h2>
+              <button id="resetButton" type="button">Reset</button>
+            </div>
+            <div id="recommendations" class="recommendations empty">
+              <p>No recommendations yet.</p>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+</html>
