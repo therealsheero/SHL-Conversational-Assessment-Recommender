@@ -396,8 +396,7 @@ At startup, `CatalogRetriever.load()` loads all catalog items and excludes pre-p
 - SHL Test Type Labels
 
 ### 2. Scoring Formula
-
-For each document $d$ and query $q$: $$\operatorname{Score}(d,q)=\sum_{t\in q}\left[\min\left(\operatorname{TF}_{q,t},2\right)\cdot\left(1+\ln\left(\operatorname{TF}_{d,t}\right)\right)\cdot\operatorname{IDF}_t\cdot W_{\mathrm{name}}\right]+S_{\mathrm{name\_match}}+S_{\mathrm{phrase}}+S_{\mathrm{skill}}+S_{\mathrm{intent}}+S_{\mathrm{duration}}$$
+For each document `d` and query `q`: $\operatorname{Score}(d,q)=\sum_{t\in q}\left[\min(\operatorname{TF}_{q,t},2)\cdot(1+\ln(\operatorname{TF}_{d,t}))\cdot\operatorname{IDF}_t\cdot W_{\mathrm{name}}\right]+S_{\mathrm{name\_match}}+S_{\mathrm{phrase}}+S_{\mathrm{skill}}+S_{\mathrm{intent}}+S_{\mathrm{duration}}$
 
 - **Title Match Bonus ($S_{\mathrm{name\_match}}$)**: `+30.0` if the full name appears in the query.
 - **Phrase Boost ($S_{\mathrm{phrase}}$)**: `+12.0` for exact domain phrase matches in the title (e.g., `"core java"`, `"data science"`).
