@@ -398,8 +398,30 @@ At startup, `CatalogRetriever.load()` loads all catalog items and excludes pre-p
 ### 2. Scoring Formula
 
 For each document $d$ and query $q$:
-
-$$\text{Score}(d, q) = \sum_{t \in q} \left[ \min(\text{TF}_{q,t}, 2) \cdot (1 + \ln(\text{TF}_{d,t})) \cdot \text{IDF}_t \cdot W_{\text{name}} \right] + S_{\text{name\_match}} + S_{\text{phrase}} + S_{\text{skill}} + S_{\text{intent}} + S_{\text{duration}}$$
+$$
+\operatorname{Score}(d,q)
+=
+\sum_{t\in q}
+\left[
+\min\left(\operatorname{TF}_{q,t},2\right)
+\cdot
+\left(1+\ln\left(\operatorname{TF}_{d,t}\right)\right)
+\cdot
+\operatorname{IDF}_t
+\cdot
+W_{\mathrm{name}}
+\right]
++
+S_{\mathrm{name\_match}}
++
+S_{\mathrm{phrase}}
++
+S_{\mathrm{skill}}
++
+S_{\mathrm{intent}}
++
+S_{\mathrm{duration}}
+$$
 
 - **Title Match Bonus ($S_{\text{name\_match}}$)**: $+30.0$ if full name appears in query.
 - **Phrase Boost ($S_{\text{phrase}}$)**: $+12.0$ for exact domain phrase matches in title (e.g., `"core java"`, `"data science"`).
