@@ -14,14 +14,14 @@ The system features a **deterministic local retrieval engine** operating in `<50
 
 ---
 
-> ### 🚀 Live Production Links
-> - 🌐 **Live Web Application**: [https://shl-conversational-assessment-recommender.onrender.com/](https://shl-conversational-assessment-recommender.onrender.com/)
-> - 📚 **Interactive Swagger API Docs**: [https://shl-conversational-assessment-recommender.onrender.com/docs](https://shl-conversational-assessment-recommender.onrender.com/docs)
-> - 💓 **Health Check Endpoint**: [https://shl-conversational-assessment-recommender.onrender.com/health](https://shl-conversational-assessment-recommender.onrender.com/health)
+> ###  Live Production Links
+> -  **Live Web Application**: [https://shl-conversational-assessment-recommender.onrender.com/](https://shl-conversational-assessment-recommender.onrender.com/)
+> -  **Interactive Swagger API Docs**: [https://shl-conversational-assessment-recommender.onrender.com/docs](https://shl-conversational-assessment-recommender.onrender.com/docs)
+> -  **Health Check Endpoint**: [https://shl-conversational-assessment-recommender.onrender.com/health](https://shl-conversational-assessment-recommender.onrender.com/health)
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Key Features](#-key-features)
 - [System Architecture](#-system-architecture)
@@ -39,7 +39,7 @@ The system features a **deterministic local retrieval engine** operating in `<50
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **100% Catalog-Grounded Recommendations**: Every returned URL is guaranteed to exist in the scraped SHL catalog (`catalog_full.json`). The system **never** fabricates assessment names or links.
 - **Sub-50ms Response Latency**: The production path uses deterministic lexical indexing + domain heuristic scoring. Eliminates runtime model downloads, LLM API rate limits, and 30-second cold-start timeouts.
@@ -55,7 +55,7 @@ The system features a **deterministic local retrieval engine** operating in `<50
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The following diagram details the flow from client interaction down to the deterministic retrieval engine:
 
@@ -90,7 +90,7 @@ flowchart TD
 
 ---
 
-## 🏷️ SHL Assessment Taxonomy
+##  SHL Assessment Taxonomy
 
 SHL categorizes test solutions into 8 primary test types. The system maps user needs directly to these codes:
 
@@ -107,7 +107,7 @@ SHL categorizes test solutions into 8 primary test types. The system maps user n
 
 ---
 
-## 📁 Directory Structure
+##  Directory Structure
 
 ```
 .
@@ -140,7 +140,7 @@ SHL categorizes test solutions into 8 primary test types. The system maps user n
 
 ---
 
-## 🚀 Getting Started & Installation
+##  Getting Started & Installation
 
 ### Option A: Use Live Deployment (Instant)
 
@@ -202,7 +202,7 @@ INFO:     Uvicorn running on http://0.0.0.0:8000
 
 ---
 
-## 💻 Web UI Interface
+##  Web UI Interface
 
 Visit **`https://shl-conversational-assessment-recommender.onrender.com/`** (or **`http://localhost:8000`** locally) in your browser to launch the interactive Web UI.
 
@@ -212,7 +212,7 @@ Visit **`https://shl-conversational-assessment-recommender.onrender.com/`** (or 
 
 ---
 
-## 📡 API Reference & Specification
+##  API Reference & Specification
 
 ### Live Base URL: `https://shl-conversational-assessment-recommender.onrender.com`
 ### Local Base URL: `http://localhost:8000`
@@ -352,7 +352,7 @@ for rec in data['recommendations']:
 
 ---
 
-## 🧠 Conversational State Machine
+##  Conversational State Machine
 
 The service evaluates conversation context via [`app/agent.py`](file:///c:/Users/acer/OneDrive%20-%20BENNETT%20UNIVERSITY/Btech/1.%20Applications/SHL%20AI/app/agent.py) to select appropriate behavior:
 
@@ -383,7 +383,7 @@ stateDiagram-v2
 
 ---
 
-## 🔍 Retrieval Engine & Scoring Algorithm
+##  Retrieval Engine & Scoring Algorithm
 
 The retrieval engine ([`app/retriever.py`](file:///c:/Users/acer/OneDrive%20-%20BENNETT%20UNIVERSITY/Btech/1.%20Applications/SHL%20AI/app/retriever.py)) processes the raw catalog data in `catalog_full.json`.
 
@@ -414,7 +414,7 @@ To prevent over-indexing on a single test category (e.g., returning 10 Java know
 
 ---
 
-## 🕷️ Catalog Scraper Pipeline
+##  Catalog Scraper Pipeline
 
 The repository includes a standalone multithreaded web scraper ([`scrape_full_catalog.py`](file:///c:/Users/acer/OneDrive%20-%20BENNETT%20UNIVERSITY/Btech/1.%20Applications/SHL%20AI/scrape_full_catalog.py)) built with `BeautifulSoup4` and `requests`.
 
@@ -438,7 +438,7 @@ python scrape_full_catalog.py
 
 ---
 
-## 🧪 Testing & Quality Assurance
+##  Testing & Quality Assurance
 
 The project includes an automated integration test suite in [`tests/test_behavior.py`](file:///c:/Users/acer/OneDrive%20-%20BENNETT%20UNIVERSITY/Btech/1.%20Applications/SHL%20AI/tests/test_behavior.py) using `pytest` and FastAPI `TestClient`.
 
@@ -452,18 +452,6 @@ python -m pytest
 
 ### Test Suite Summary
 
-```text
-============================= test session starts =============================
-platform win32 -- Python 3.13.5, pytest-9.0.3, pluggy-1.6.0
-rootdir: C:\Users\acer\OneDrive - BENNETT UNIVERSITY\Btech\1. Applications\SHL AI
-plugins: anyio-4.10.0, langsmith-0.7.25
-collected 7 items
-
-tests/test_behavior.py .......                                           [100%]
-
-============================== 7 passed in 0.54s ==============================
-```
-
 | Test Function | Target Behavior Verified |
 | :--- | :--- |
 | `test_health` | Ensures `GET /health` returns `200 OK` with `{"status": "ok"}`. |
@@ -476,7 +464,7 @@ tests/test_behavior.py .......                                           [100%]
 
 ---
 
-## ☁️ Production Deployment
+##  Production Deployment
 
 The application is deployed live on **Render**.
 
@@ -519,7 +507,7 @@ docker run -p 8000:8000 shl-recommender
 
 ---
 
-## 💡 Design Decisions & Trade-Offs
+##  Design Decisions & Trade-Offs
 
 1. **Deterministic Retrieval vs. Live LLM API Calls**:
    - *Initial Prototype*: Used OpenAI / FAISS embedding vector search.
@@ -532,11 +520,3 @@ docker run -p 8000:8000 shl-recommender
 
 ---
 
-## 📜 License & Author
-
-Developed for the **SHL AI Intern Assignment**.
-
-- **Live Service**: [https://shl-conversational-assessment-recommender.onrender.com/](https://shl-conversational-assessment-recommender.onrender.com/)
-- **Repository**: [SHL-Conversational-Assessment-Recommender](https://github.com/therealsheero/SHL-Conversational-Assessment-Recommender)
-- **Author**: Bennett University Team / @therealsheero
-- **License**: [MIT License](LICENSE)
